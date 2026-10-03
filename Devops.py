@@ -554,3 +554,7 @@ Step 12: View Logs
 docker compose logs frontend docker compose logs backend docker compose logs database 
 Step 13: Stop / Restart 
 docker compose down docker compose up -d docker compose ps 
+
+
+
+https://github.com/timepassstarts1-hash/flask-jenkins-demo/blob/main/__pycache__/extension/dhyue/fjuie/djuei/shuuw77/5482d/P.10%20Deploy%20a%203-tier%20application%202.py
